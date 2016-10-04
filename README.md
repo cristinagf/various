@@ -9,4 +9,4 @@ Microphones must be synchronized. A minimum of 3 microphone signal decoding proc
 2) Replace lattice.cc into lat/src folder
 3) Compile SRiLM
 
-Status: (moving to bitbucket.. New direction will be anounced soon.)
+Status: (moving to bitbucket..  https://bitbucket.org/cristinagf/srilm_mmcn.)
